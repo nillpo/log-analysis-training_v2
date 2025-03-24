@@ -1,0 +1,57 @@
+2023/10/12 00:00:25| Current Directory is /
+2023/10/12 00:00:25 kid1| storeDirWriteCleanLogs: Starting...
+2023/10/12 00:00:25 kid1|   Finished.  Wrote 0 entries.
+2023/10/12 00:00:25 kid1|   Took 0.00 seconds (  0.00 entries/sec).
+2023/10/12 00:00:25 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2023/10/12 00:00:25 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2023/10/12 00:00:25 kid1| Pinger socket opened on FD 26
+2023/10/12 00:00:25| pinger: Initialising ICMP pinger ...
+2023/10/12 00:00:25| pinger: ICMP socket opened.
+2023/10/12 00:00:25| pinger: ICMPv6 socket opened
+2023/10/12 01:14:38 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2023/10/12 01:14:38 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2023/10/12 01:14:38 kid1| NETDB state saved; 0 entries, 0 msec
+2023/10/12 02:24:38 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2023/10/12 02:24:38 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2023/10/12 02:24:38 kid1| NETDB state saved; 0 entries, 0 msec
+2023/10/12 03:43:56 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2023/10/12 03:43:56 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2023/10/12 03:43:56 kid1| NETDB state saved; 1 entries, 0 msec
+2023/10/12 04:56:01 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2023/10/12 04:56:01 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2023/10/12 04:56:01 kid1| NETDB state saved; 1 entries, 0 msec
+2023/10/12 05:07:32 kid1| parse URL too large (8209 bytes)
+2023/10/12 05:07:32 kid1| parse URL too large (9233 bytes)
+2023/10/12 05:07:32 kid1| parse URL too large (10257 bytes)
+2023/10/12 05:07:33 kid1| parse URL too large (11281 bytes)
+2023/10/12 05:07:33 kid1| parse URL too large (12305 bytes)
+2023/10/12 05:07:34 kid1| parse URL too large (13329 bytes)
+2023/10/12 05:07:34 kid1| parse URL too large (14353 bytes)
+2023/10/12 05:07:35 kid1| parse URL too large (15377 bytes)
+2023/10/12 05:07:35 kid1| parse URL too large (16401 bytes)
+2023/10/12 05:07:36 kid1| parse URL too large (17425 bytes)
+2023/10/12 05:08:34 kid1| parse URL too large (8209 bytes)
+2023/10/12 05:08:34 kid1| parse URL too large (8721 bytes)
+2023/10/12 05:08:34 kid1| parse URL too large (9233 bytes)
+2023/10/12 05:08:35 kid1| parse URL too large (9745 bytes)
+2023/10/12 05:08:35 kid1| parse URL too large (10257 bytes)
+2023/10/12 05:10:42 kid1| parse URL too large (8212 bytes)
+2023/10/12 05:10:42 kid1| parse URL too large (8724 bytes)
+2023/10/12 05:10:42 kid1| parse URL too large (9236 bytes)
+2023/10/12 05:10:43 kid1| parse URL too large (9748 bytes)
+2023/10/12 05:10:43 kid1| parse URL too large (10260 bytes)
+2023/10/12 05:10:43 kid1| parse URL too large (10772 bytes)
+2023/10/12 05:27:59 kid1| parse URL too large (8212 bytes)
+2023/10/12 05:28:00 kid1| parse URL too large (8724 bytes)
+2023/10/12 05:28:00 kid1| parse URL too large (9236 bytes)
+2023/10/12 05:28:33 kid1| parse URL too large (8420 bytes)
+2023/10/12 05:28:33 kid1| parse URL too large (8720 bytes)
+2023/10/12 05:28:34 kid1| parse URL too large (9020 bytes)
+2023/10/12 05:28:52 kid1| parse URL too large (8212 bytes)
+2023/10/12 05:28:53 kid1| parse URL too large (8468 bytes)
+2023/10/12 05:36:20 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2023/10/12 05:36:20 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2023/10/12 05:36:20 kid1| NETDB state saved; 1 entries, 0 msec
+2023/10/12 06:43:33 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2023/10/12 06:43:33 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2023/10/12 06:43:33 kid1| NETDB state saved; 1 entries, 0 msec
